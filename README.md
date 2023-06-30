@@ -3,3 +3,4 @@ This is the official github repository for BsidesMombasa for all the collaborati
 - 📫 Get follow us on social media...:
 - twitter:https://twitter.com/bsidesmombasa
 - linkedln:https://ke.linkedin.com/company/bsidesmombasa
+- website: https://bsidesmombasa.org
